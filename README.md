@@ -55,4 +55,4 @@
 
 * **GitHub:** [Nathan's Profile](https://github.com/)
 * **LinkedIn:** [Nathan Zacharia Saby](https://linkedin.com/)
-* **Email:** *[Nathan's Email Id](nathan16.zach@gmail.com)
+* **Email:** [nathan16.zach@gmail.com](mailto:nathan16.zach@gmail.com)
